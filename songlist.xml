@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Style.css"?>
+
+<Listenings>
+    <Music type="Rap">
+        <Genre>Rap</Genre>
+        <Artist>MF DOOM</Artist>
+            <Song>- Accordian</Song>
+            <Song>- Raid</Song>
+            <Song>- Lavendar Buds</Song>
+    </Music>
+
+    <Music type="Pop">
+        <Genre>Pop</Genre>
+        <Artist>Doja Cat</Artist>
+            <Song>- Woman</Song>
+            <Song>- Streets</Song>
+            <Song>- MOOO!</Song>
+    </Music>
+
+    <Music type="Indie Alternative">
+        <Genre>Indie Alternative</Genre>
+        <Artist>Crumb</Artist>
+            <Song>- Plants</Song>
+            <Song>- L.A</Song>
+            <Song>- Fall Down</Song>
+    </Music>
+</Listenings>
+
+

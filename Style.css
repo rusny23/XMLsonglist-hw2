@@ -1,0 +1,22 @@
+Listenings {
+    color: rgb(255, 255, 255);
+    background-color: rgb(136, 175, 45);
+    width: 100%;
+
+}
+Genre {
+    color: rgb(109, 119, 81);
+    font-size: 35px;
+    text-decoration: underline;
+    display: block;
+}
+Artist {
+    color: rgb(107, 58, 12);
+    font-size: 25px;
+    display: block;
+}
+Song{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    display: block;
+}
